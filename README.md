@@ -15,6 +15,9 @@ A **Library Management System** built using **HTML, CSS, JavaScript, and PHP** t
 - **Backend:** PHP  
 - **Database:** MySQL (for storing book & user data)  
 
+## 📸 Demo Screenshot  
+![Screenshot (2)](https://github.com/user-attachments/assets/e96dab12-7a63-4470-b96e-00de5f34662a)
+
 ## 🎯 How to Use?  
 1. 📜 **Admin Panel**: Manage books, users, and transactions  
 2. 🔍 **Search**: Find books by title, author, or category  
